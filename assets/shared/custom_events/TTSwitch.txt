@@ -1,0 +1,3 @@
+ONLY WORKS ON CRAFTEE BG!!
+Value1 = true/false
+Value2 = Nothing Fuck You

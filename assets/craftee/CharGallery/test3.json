@@ -1,0 +1,21 @@
+{
+	"char_TEXT": {
+		"inCharacters": true,
+		"image": "knuckles_TEXT",
+		"x": 500,
+		"y": 60,
+		"flipX": false,
+		"antialiasing": false,
+		"scale": 3
+	},
+	"char": {
+		"inCharacters": true,
+		"image": "knuckles",
+		"x": 580,
+		"y": 270,
+		"flipX": false,
+		"antialiasing": false,
+		"scale": 2.8
+	},
+	"description": "Once Sonic's Rival. Now Good Friend. Knuckles Is A Strong Dude Who Protects The Master Emerald On Angel Island.     He's Also A Part Of The SONIC HEROES *insert sonic heroes theme here*"
+}

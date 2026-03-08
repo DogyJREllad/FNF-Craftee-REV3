@@ -1,0 +1,21 @@
+{
+	"char_TEXT": {
+		"inCharacters": true,
+		"image": "tails_TEXT",
+		"x": 540,
+		"y": 65,
+		"flipX": false,
+		"antialiasing": false,
+		"scale": 3.3
+	},
+	"char": {
+		"inCharacters": true,
+		"image": "tails",
+		"x": 550,
+		"y": 320,
+		"flipX": false,
+		"antialiasing": false,
+		"scale": 2.8
+	},
+	"description": "Sonic's Best Friend, He's A Tech Genius And Knows How Fly A FUCKING PLANE(God Damn).     With His Two Tails. He Can Fly As High As His Energy Allows Him. Also He's  Cute AF"
+}

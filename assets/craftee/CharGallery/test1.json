@@ -1,0 +1,21 @@
+{
+	"char_TEXT": {
+		"inCharacters": true,
+		"image": "placeholder_TEXT",
+		"x": 550,
+		"y": 60,
+		"flipX": false,
+		"antialiasing": false,
+		"scale": 3.2
+	},
+	"char": {
+		"inCharacters": true,
+		"image": "placeholder",
+		"x": 590,
+		"y": 290,
+		"flipX": false,
+		"antialiasing": false,
+		"scale": 2.8
+	},
+	"description": "Always Full Of Energy. Sonic's The Fastest Hedgehog(And Kindest) The World Has Ever Seen. Sonic's Always Here When You Need Him And Will Help Without Thinking Twice.(He's Also Edgy As Fuck. But Shadow's More)"
+}
